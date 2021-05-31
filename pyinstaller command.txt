@@ -1,0 +1,1 @@
+pyinstaller --add-data env\Lib\site-packages\pdf2jpg\pdf2jpg.jar;pdf2jpg --add-data env\Lib\site-packages\docx\templates\default.docx;docx\templates --onefile main.py
