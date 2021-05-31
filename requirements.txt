@@ -1,4 +1,0 @@
-pdf2jpg
-tk
-docx
-natsort
